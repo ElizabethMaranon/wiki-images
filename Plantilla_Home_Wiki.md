@@ -1,4 +1,4 @@
-![Logo_Encabezado](https://github.com/ElizabethMaranon/JS_Promesas/assets/148614690/68d45705-2def-497a-b100-039fb72a56c3)
+! [Logo Encabezado](https://github.com/ElizabethMaranon/wiki-images/blob/723e8a1d326b9910a71d8b63ee7e48ccb4971f1e/Logo_Encabezado.png)
 
 # Bienvenido al mundo del desarrollo!
 
