@@ -8,6 +8,6 @@ Espero os sirvan de ayuda y os divirtáis con el aprendizaje.
 
 Que no sea fácil, no significa que sea imposible!!
 
-Atentamente, Mielma, una futura developer
+Atentamente, Mielma.
 
 # Guías 
