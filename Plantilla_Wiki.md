@@ -16,6 +16,4 @@ Resultado
 
 ### [Código Mielma🔗]()
 
-## Diccionario
 
-[Diccionario ❓]()
