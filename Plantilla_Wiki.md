@@ -2,19 +2,6 @@
 
 # [🔗]()
 
-## Subtitulo[🔗]()
-
-### Sintaxis
-
-#### Parámetros
-
-### Descripción
-
-### Ejemplo
-
-## Guía DevCamp → 
-
-
 ## [Coding Exercise🔗]()
 
 ```js
