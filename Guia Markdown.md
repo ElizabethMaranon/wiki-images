@@ -1,4 +1,5 @@
 ! [Logo Encabezado](https://github.com/ElizabethMaranon/wiki-images/blob/723e8a1d326b9910a71d8b63ee7e48ccb4971f1e/Logo_Encabezado.png)
+![Logo_Codepen](https://github.com/ElizabethMaranon/Full-Stack/assets/148614690/8697e562-9e49-4de3-8ff2-b35da681989f)
 + <font color="#006cb5">Círculo #006cb5</font>  
 + <font color="#000000">Ratón #000000</font>  
 + <font color="#556CEE">Logo #556CEE</font>  
